@@ -1,4 +1,4 @@
-#Analizador de Sentimiento - FIA EPN
+##Analizador de Sentimiento - FIA EPN
 
 Sistema integral de análisis de sentimientos bilingüe desarrollado para el Proyecto Final de Inteligencia Artificial. La aplicación utiliza técnicas de Procesamiento de Lenguaje Natural (NLP) para clasificar opiniones como **Positivas** o **Negativas**.
 
