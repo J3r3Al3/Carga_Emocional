@@ -1,0 +1,159 @@
+review,sentiment,language
+"el servicio fue excelente y muy rapido",positivo,es
+"estoy muy feliz con mi compra",positivo,es
+"la atencion al cliente es maravillosa",positivo,es
+"fue una experiencia increible",positivo,es
+"realmente recomiendo este lugar",positivo,es
+"el producto supero mis expectativas",positivo,es
+"todo funciono de manera perfecta",positivo,es
+"un trabajo impecable y profesional",positivo,es
+"me encanta la calidad de todo",positivo,es
+"una decision muy acertada",positivo,es
+"la comida estuvo deliciosa",positivo,es
+"el personal fue muy amable",positivo,es
+"el diseno es elegante y moderno",positivo,es
+"super facil de usar y configurar",positivo,es
+"valio cada centavo invertido",positivo,es
+"el servicio fue pesimo y lento",negativo,es
+"estoy muy decepcionado con esto",negativo,es
+"la atencion fue horrible y grosera",negativo,es
+"fue una experiencia espantosa",negativo,es
+"no recomiendo este lugar para nada",negativo,es
+"el producto es de mala calidad",negativo,es
+"nada funciona como deberia",negativo,es
+"un trabajo mediocre y sin sentido",negativo,es
+"odio como me trataron hoy",negativo,es
+"fue una perdida total de tiempo",negativo,es
+"el precio es excesivo para lo que es",negativo,es
+"llego roto y en mal estado",negativo,es
+"el soporte tecnico no ayuda nada",negativo,es
+"una estafa no lo compren",negativo,es
+"nunca volveria a usar este servicio",negativo,es
+"the service was excellent and fast",positivo,en
+"i am very happy with my purchase",positivo,en
+"customer service is wonderful",positivo,en
+"it was an amazing experience",positivo,en
+"i highly recommend this place",positivo,en
+"the product exceeded my expectations",positivo,en
+"everything worked perfectly",positivo,en
+"impeccable and professional work",positivo,en
+"i love the quality of everything",positivo,en
+"a very wise decision",positivo,en
+"the food was absolutely delicious",positivo,en
+"the staff was very friendly",positivo,en
+"the design is sleek and modern",positivo,en
+"super easy to use and setup",positivo,en
+"worth every single penny",positivo,en
+"the service was awful and slow",negativo,en
+"i am very disappointed with this",negativo,en
+"customer service was horrible",negativo,en
+"it was a terrible experience",negativo,en
+"i do not recommend this place",negativo,en
+"the product is of poor quality",negativo,en
+"nothing works as it should",negativo,en
+"mediocre and senseless work",negativo,en
+"i hate how i was treated today",negativo,en
+"it was a total waste of time",negativo,en
+"the price is too high for the quality",negativo,en
+"it arrived broken and damaged",negativo,en
+"technical support is useless",negativo,en
+"this is a scam do not buy it",negativo,en
+"i would never use this service again",negativo,en
+"el servicio fue excelente y muy rapido",positivo,es
+"estoy muy feliz con mi compra",positivo,es
+"la atencion al cliente es maravillosa",positivo,es
+"fue una experiencia increible",positivo,es
+"realmente recomiendo este lugar",positivo,es
+"el producto supero mis expectativas",positivo,es
+"todo funciono de manera perfecta",positivo,es
+"un trabajo impecable y profesional",positivo,es
+"me encanta la calidad de todo",positivo,es
+"una decision muy acertada",positivo,es
+"el servicio fue pesimo y lento",negativo,es
+"estoy muy decepcionado con esto",negativo,es
+"la atencion fue horrible y grosera",negativo,es
+"fue una experiencia espantosa",negativo,es
+"no recomiendo este lugar para nada",negativo,es
+"el producto es de mala calidad",negativo,es
+"nada funciona como deberia",negativo,es
+"un trabajo mediocre y sin sentido",negativo,es
+"odio como me trataron hoy",negativo,es
+"fue una perdida total de tiempo",negativo,es
+"the service was excellent and fast",positivo,en
+"i am very happy with my purchase",positivo,en
+"customer service is wonderful",positivo,en
+"it was an amazing experience",positivo,en
+"i highly recommend this place",positivo,en
+"the product exceeded my expectations",positivo,en
+"everything worked perfectly",positivo,en
+"impeccable and professional work",positivo,en
+"i love the quality of everything",positivo,en
+"a very wise decision",positivo,en
+"the service was awful and slow",negativo,en
+"i am very disappointed with this",negativo,en
+"customer service was horrible",negativo,en
+"it was a terrible experience",negativo,en
+"i do not recommend this place",negativo,en
+"the product is of poor quality",negativo,en
+"nothing works as it should",negativo,en
+"mediocre and senseless work",negativo,en
+"i hate how i was treated today",negativo,en
+"it was a total waste of time",negativo,en
+"la pelicula es excelente y muy buena",positivo,es
+"me gusto mucho la actuacion y el guion",positivo,es
+"es una obra maestra del cine",positivo,es
+"fue una experiencia increible y emocionante",positivo,es
+"realmente recomendada para todos",positivo,es
+"el final fue espectacular y me encanto",positivo,es
+"una de las mejores peliculas que he visto",positivo,es
+"todo fue perfecto en esta produccion",positivo,es
+"la pelicula es malisima y aburrida",negativo,es
+"no me gusto nada fue una perdida de tiempo",negativo,es
+"pesima direccion y muy mala historia",negativo,es
+"es lo peor que he visto en años",negativo,es
+"me quede dormido de lo lenta que era",negativo,es
+"no la recomiendo para nada es horrible",negativo,es
+"un desastre total de principio a fin",negativo,es
+"actuaciones mediocres y guion sin sentido",negativo,es
+"the movie was absolutely fantastic and great",positivo,en
+"i loved the acting and the script",positivo,en
+"it is a masterpiece of modern cinema",positivo,en
+"an incredible and emotional experience",positivo,en
+"highly recommended for everyone",positivo,en
+"the ending was spectacular i loved it",positivo,en
+"one of the best movies i have ever seen",positivo,en
+"everything was perfect in this production",positivo,en
+"the movie is terrible and very boring",negativo,en
+"i did not like it at all a waste of time",negativo,en
+"awful direction and very bad story",negativo,en
+"it is the worst thing i have seen in years",negativo,en
+"i fell asleep because it was so slow",negativo,en
+"i do not recommend it at all it is horrible",negativo,en
+"a total disaster from start to finish",negativo,en
+"mediocre acting and senseless script",negativo,en
+"la pelicula es excelente",positivo,es
+"me encanto el final",positivo,es
+"buena actuacion y guion",positivo,es
+"es una obra maestra",positivo,es
+"muy recomendada",positivo,es
+"la pelicula es mala",negativo,es
+"no me gusto nada",negativo,es
+"muy aburrida",negativo,es
+"pesima direccion",negativo,es
+"un desastre total",negativo,es
+"the movie was great",positivo,en
+"i loved the ending",positivo,en
+"excellent story and actors",positivo,en
+"it is a masterpiece",positivo,en
+"highly recommended",positivo,en
+"the movie is terrible",negativo,en
+"i hated every minute",negativo,en
+"very boring and slow",negativo,en
+"waste of money",negativo,en
+"horrible experience",negativo,en
+"this is the best movie ever",positivo,en
+"i really enjoyed this film",positivo,en
+"it was a fantastic experience",positivo,en
+"this movie is a complete waste of time",negativo,en
+"terrible acting and boring plot",negativo,en
+"i hated this movie so much",negativo,en
