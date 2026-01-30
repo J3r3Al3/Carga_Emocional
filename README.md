@@ -1,4 +1,4 @@
-##Analizador de Sentimiento - FIA EPN
+## Analizador de Sentimiento - FIA EPN
 
 Sistema integral de análisis de sentimientos bilingüe desarrollado para el Proyecto Final de Inteligencia Artificial. La aplicación utiliza técnicas de Procesamiento de Lenguaje Natural (NLP) para clasificar opiniones como **Positivas** o **Negativas**.
 
@@ -35,7 +35,7 @@ sentiment_ai_project/
 │   └── imdb_reviews.csv    # Dataset global (60 registros)
 └── README.md               # Documentación del proyecto
 
-##GUÍA DE EJECUCIÓN TÉCNICA
+## GUÍA DE EJECUCIÓN TÉCNICA
 1. Requisitos Previos e Instalación
 Antes de iniciar, asegúrese de tener instaladas todas las dependencias necesarias ejecutando el siguiente comando en su terminal:
 
