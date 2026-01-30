@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 def prepare_dataset():
-    # Creamos un dataset balanceado manualmente para asegurar precisión inicial
+    #Dataset balanceado manualmente para asegurar precisión inicial
     data = {
         "review": [
             "La pelicula estuvo muy buena", "Me encanto el final", "Excelente actuacion",

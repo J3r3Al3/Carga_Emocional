@@ -54,7 +54,7 @@ def analyze_sentiment():
 
 # --- Configuración Visual de Tkinter ---
 root = tk.Tk()
-root.title("Bilingual Sentiment Analyzer - EPN")
+root.title("Analizador de Sentimiento - EPN")
 root.geometry("500x650")
 root.configure(bg="#f0f0f0")
 
