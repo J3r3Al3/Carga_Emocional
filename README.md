@@ -22,6 +22,8 @@ Es necesario contar con Python 3.10 o superior y las siguientes dependencias:
 pip install flask pandas scikit-learn nltk joblib requests
 ```
 ## Estructura de Archivos
+
+```bash
 sentiment_ai_project/
 │
 ├── api/
@@ -34,6 +36,7 @@ sentiment_ai_project/
 ├── data/
 │   └── imdb_reviews.csv    # Dataset global (60 registros)
 └── README.md               # Documentación del proyecto
+```
 
 ## GUÍA DE EJECUCIÓN TÉCNICA
 1. Requisitos Previos e Instalación
